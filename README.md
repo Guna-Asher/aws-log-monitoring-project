@@ -16,7 +16,7 @@ This project implements a **proactive, event-driven observability pipeline**. It
 
 The system follows a clean **Extract, Transform, Load (ETL)** pattern optimized for lightweight edge compute (EC2).
 
-![Architecture Diagram](images/architecture.drawio.png)
+![Architecture Diagram](images/architecture.png)
 
 | Stage | Component | Description |
 | :--- | :--- | :--- |
