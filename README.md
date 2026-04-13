@@ -6,6 +6,10 @@ This project implements an automated log monitoring pipeline using AWS EC2, IAM 
 
 The system scans application logs, extracts ERROR entries, and uploads them securely into an S3 bucket.
 
+## Architecture Diagram
+
+![Architecture](images/architecture.drawio.png)
+
 ## Architecture
 
 Application logs
